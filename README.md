@@ -1,5 +1,11 @@
 # SQLiteImporterExporter
 A light weight library for exporting and importing sqlite database in android
+
+## How to Download
+You can download the library using Nuget
+```csharp
+Install-Package SQLiteImporterExporter -Version 1.0.0
+```
 ## How to use this Library:
 This Library is used to import SQLite Database from Assets or External path and Export/Backup SQLite Database to external path.
 
