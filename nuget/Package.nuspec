@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SQLiteImporterExporter</id>
+    <version>1.0.0</version>
+    <authors>Mushtaq</authors>
+    <owners>Mushtaq</owners>
+    <projectUrl>https://github.com/androidmads/XASQLiteImporterExporter</projectUrl>
+    <iconUrl>https://lh3.googleusercontent.com/-8awtMI1rwkE/V2VAjxHDxCI/AAAAAAAAAG4/LVNkDQHM4A4GXlWVxAWV_h9WcGnrZ1qMACEw/w140-h140-p/ic_launcher.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A Light weight plugin used simplify the export and import process of SQLite in Xamarin.</description>
+    <releaseNotes>A Light weight plugin used simplify the export and import process of SQLite in Xamarin.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>SQLiteImporterExporter SQLite Import Export Xamarin.Android</tags>
+  </metadata>
+  <files>
+    <file src="..\XASQLiteImporterExporter\bin\Release\XASQLiteImporterExporter.dll" target="lib\XASQLiteImporterExporter.dll" />
+  </files>
+</package>
