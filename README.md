@@ -6,6 +6,7 @@ You can download the library using Nuget
 ```csharp
 Install-Package SQLiteImporterExporter -Version 1.0.0
 ```
+If the nuget is not compatible to your project, then you can download and include the directly from [here](https://github.com/androidmads/XASQLiteImporterExporter/tree/master/dll)
 ## How to use this Library:
 This Library is used to import SQLite Database from Assets or External path and Export/Backup SQLite Database to external path.
 
